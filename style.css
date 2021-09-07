@@ -8,11 +8,15 @@ div.jumbotron > h1{
     color: antiquewhite;
 }
 .col-sm-6{
-    background-color:thistle
+    background-color:thistle;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 body{
     background-image: linear-gradient(to left , lightgray, thistle, lightgray);
 }
 h2{
     text-align:center;
+}
+p{
+    font-size: 16px;
 }
