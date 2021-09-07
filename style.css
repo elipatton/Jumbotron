@@ -1,4 +1,4 @@
-div.jumbotron{
+.jumbotron{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKJjE8iZuRrkjIcWJ8K7kimxCBRnMIv2ecw&usqp=CAU);
     background-size: cover;
     height:600px;
