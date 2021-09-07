@@ -1,3 +1,18 @@
 div.jumbotron{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKJjE8iZuRrkjIcWJ8K7kimxCBRnMIv2ecw&usqp=CAU);
+    background-size: cover;
+    height:600px;
+}
+div.jumbotron > h1{
+    text-align:center;
+    color: antiquewhite;
+}
+.col-sm-6{
+    background-color:thistle
+}
+body{
+    background-image: linear-gradient(to left , lightgray, thistle, lightgray);
+}
+h2{
+    text-align:center;
 }
