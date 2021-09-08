@@ -20,3 +20,9 @@ h2{
 p{
     font-size: 16px;
 }
+th{
+    color:#a65f54;
+}
+td{
+    color:salmon;
+}
