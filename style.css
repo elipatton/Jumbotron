@@ -26,3 +26,13 @@ th{
 td{
     color:salmon;
 }
+.black{
+    border-color: black;
+  }
+img{
+    height: 200px;
+    text-align: center;
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;
+}
