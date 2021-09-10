@@ -36,3 +36,11 @@ img{
     margin-left: auto;  
     margin-right: auto;
 }
+.color{
+    
+    color:#a65f54;
+}
+.navbar-eli{
+    background-image: linear-gradient(to right, thistle, lightgray);
+
+}
