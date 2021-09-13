@@ -44,3 +44,9 @@ img{
     background-image: linear-gradient(to right, thistle, lightgray);
 
 }
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 70%;
+  margin: auto;
+}
